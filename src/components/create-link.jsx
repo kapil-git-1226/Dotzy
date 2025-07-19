@@ -104,8 +104,6 @@ const CreateLink = () => {
               <div className="flex items-center gap-2">
 
                 <Card className="p-2">http://localhost:5173</Card>/
-
-                <Card className="p-2">dotzy.vercel.app</Card>/
                   <Input id="customUrl" placeholder="Custom Link (optional) " value={formValues.customUrl} onChange={handleChange}/>
               </div>
               {error && <Error message={errors.message} />}
