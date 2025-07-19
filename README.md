@@ -112,6 +112,17 @@ Before running this project, make sure you have:
       - Delete unwanted links
 
 
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](public/landing.png)
+
+### Dashboard
+![Dashboard](public/dashboard.png)
+
+### Analytics
+![Analytics](public/URLStats.png)
+
 
 **👨‍💻 Author**
 Kapil Gangwar
